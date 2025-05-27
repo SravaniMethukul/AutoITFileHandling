@@ -21,12 +21,14 @@ This project demonstrates how to automate file uploads in web applications using
 
 ## 🛠️ Project Files
 
-/project-root
-│
-├── src/
-│      ├── /default Package
-│      │   └── FileUploadAutoIT.java   
-│      │   └── windowHandling.java  
+## Project Structure
+
+project-root/
+└── src/
+    └── (default package)/
+        ├── FileUploadAutoIT.java       # Handles file uploads using AutoIT
+        └── windowHandling.java         # Manages browser window switching
+
 
 ## 🔧 Setup Instructions
 
