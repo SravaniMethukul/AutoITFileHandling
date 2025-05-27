@@ -21,9 +21,8 @@ This project demonstrates how to automate file uploads in web applications using
 
 ## 🛠️ Project Files
 
-## Files Added
-Files - FileUploadAutoIT.java       # Handles file uploads using AutoIT
-windowHandling.java         # window authentication handling
+1. Files - FileUploadAutoIT.java       # Handles file uploads using AutoIT
+2. windowHandling.java         # window authentication handling
 
 
 ## 🔧 Setup Instructions
