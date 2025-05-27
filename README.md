@@ -19,12 +19,14 @@ This project demonstrates how to automate file uploads in web applications using
 - Google Chrome + compatible ChromeDriver
 - TestNG (optional for assertions)
 
- ## Project Structure 
- project/
-└── src/
-└── defaultPackage
-├── FileUploadAutoIT.java
-└── windowHandling.java
+## 🛠️ Project Files
+
+/project-root
+│
+├── src/
+│      ├── /default Package
+│      │   └── FileUploadAutoIT.java   
+│      │   └── windowHandling.java  
 
 ## 🔧 Setup Instructions
 
